@@ -1,0 +1,28 @@
+{
+    "rrcMeasReport": {
+        "MeasId": 1,
+        "MeasResultServingMOList": [
+            {
+                "ServCellId": 0,
+                "PhysCellId": 50,
+                "Rsrp": 76,
+                "Rsrq": 28,
+                "Sinr": 14
+            }
+        ],
+        "MeasResultListNR": [
+            {
+                "PhysCellId": 51,
+                "Rsrp": 100,
+                "Rsrq": 30,
+                "Sinr": 90
+            },
+            {
+                "PhysCellId": 52,
+                "Rsrp": 100,
+                "Rsrq": 30,
+                "Sinr": 90
+            }
+        ]
+    }
+}

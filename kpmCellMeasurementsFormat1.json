@@ -1,0 +1,167 @@
+{
+    "cellLabelInfoList": [
+        {
+            "MeasLabel": {
+                "DistBinX": 1,
+                "DistBinY": 1,
+                "DistBinZ": 1
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 2,
+                "DistBinY": 2,
+                "DistBinZ": 2
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 3,
+                "DistBinY": 3,
+                "DistBinZ": 1
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 4,
+                "DistBinY": 4,
+                "DistBinZ": 4
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 5,
+                "DistBinY": 5,
+                "DistBinZ": 5
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 6,
+                "DistBinY": 6,
+                "DistBinZ": 6
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 7,
+                "DistBinY": 7,
+                "DistBinZ": 7
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 8,
+                "DistBinY": 8,
+                "DistBinZ": 8
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 9,
+                "DistBinY": 9,
+                "DistBinZ": 9
+            }
+        },
+        {
+            "MeasLabel": {
+                "DistBinX": 10,
+                "DistBinY": 10,
+                "DistBinZ": 10
+            }
+        }
+    ],
+    "cellMeasDataItem": [
+        {
+            "MeasRecord": [
+                {
+                    "Integer": 200
+                },
+                {
+                    "Integer": 20
+                },
+                {
+                    "Integer": 0
+                },
+                {
+                    "Integer": 0
+                },
+                {
+                    "Integer": 0
+                },
+                {
+                    "Integer": 0
+                },
+                {
+                    "Integer": 10
+                },
+                {
+                    "Integer": 90
+                },
+                {
+                    "Integer": 19
+                },
+                {
+                    "Integer": 10
+                }
+            ]
+        },
+        {
+            "MeasRecord": [
+                {
+                    "Integer": 1
+                },
+                {
+                    "Integer": 2
+                },
+                {
+                    "Integer": 3
+                },
+                {
+                    "Integer": 4
+                },
+                {
+                    "Integer": 5
+                }
+            ]
+        },
+        {
+            "MeasRecord": [
+                {
+                    "Integer": 1
+                },
+                {
+                    "Integer": 2
+                },
+                {
+                    "Integer": 3
+                },
+                {
+                    "Integer": 4
+                },
+                {
+                    "Integer": 5
+                }
+            ]
+        },
+        {
+            "MeasRecord": [
+                {
+                    "Integer": 1
+                },
+                {
+                    "Integer": 2
+                },
+                {
+                    "Integer": 3
+                },
+                {
+                    "Integer": 4
+                },
+                {
+                    "Integer": 5
+                }
+            ]
+        }
+    ]
+}

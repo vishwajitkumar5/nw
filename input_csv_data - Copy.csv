@@ -1,0 +1,9 @@
+UEID,CQI,CellID,PRBUsage,PhyCellID,RadioCondition,PhysicalCellId_1,RadioCondition_1,PhysicalCellId_2,RadioCondition_2,handover
+1,low,0,normal,50,poor,51,excellent,52,excellent,yes
+2,low,0,Congested,50,poor,51,excellent,52,excellent,No
+3,low,0,Normal,50,excellent,51,excellent,52,excellent,yes
+4,low,0,Congested,50,excellent,51,excellent,52,excellent,yes
+5,high,0,Congested,50,excellent,51,excellent,52,excellent,No
+6,high,0,Normal,50,excellent,51,excellent,52,excellent,No
+7,low,0,Congested,50,good,51,excellent,52,excellent,yes
+8,high,0,Normal,50,good,51,excellent,52,excellent,yes

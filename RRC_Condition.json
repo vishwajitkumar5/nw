@@ -1,0 +1,17 @@
+{
+    "excellent": {
+        "Rsrp": 100,
+        "Rsrq": 30,
+        "Sinr": 90
+    },
+    "good": {
+        "Rsrp": 76,
+        "Rsrq": 28,
+        "Sinr": 90
+    },
+    "poor": {
+        "Rsrp": 76,
+        "Rsrq": 28,
+        "Sinr": 14
+    }
+}

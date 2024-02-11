@@ -1,0 +1,13 @@
+UEID,CQI,CellID,PhyCellID,PRBUsage,RadioCondition,PhysicalCellId_1,PRBUsage_1,RadioCondition_1,PhysicalCellId_2,PRBUsage_2,RadioCondition_2
+1,low,0,50,Normal,poor,51,Congested,excellent,52,Congested,excellent
+1,high,0,50,Normal,poor,51,Congested,excellent,52,Congested,excellent
+1,low,0,50,Normal,poor,51,Normal,good,52,Congested,excellent
+1,low,0,50,Normal,poor,51,Normal,excellent,52,Normal,good
+1,low,0,50,Normal,poor,51,Congested,excellent,52,Normal,good
+1,low,0,50,Normal,poor,51,Normal,good,52,Normal,excellent
+2,low,0,50,Normal,poor,51,Congested,excellent,52,Congested,excellent
+2,high,0,50,Normal,poor,51,Congested,excellent,52,Congested,excellent
+2,low,0,50,Normal,poor,51,Normal,good,52,Congested,excellent
+2,low,0,50,Normal,poor,51,Normal,excellent,52,Normal,good
+2,low,0,50,Normal,poor,51,Congested,excellent,52,Normal,good
+2,low,0,50,Normal,poor,51,Normal,good,52,Normal,excellent

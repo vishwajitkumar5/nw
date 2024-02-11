@@ -1,0 +1,66 @@
+{
+    "Normal": [
+        {
+            "Integer": 200
+          },
+          {
+            "Integer": 20
+          },
+          {
+            "Integer": 0
+          },
+          {
+            "Integer": 0
+          },
+          {
+            "Integer": 0
+          },
+          {
+            "Integer": 0
+          },
+          {
+            "Integer": 10
+          },
+          {
+            "Integer": 90
+          },
+          {
+            "Integer": 19
+          },
+          {
+            "Integer": 10
+          }
+    ],
+    "Congested": [
+      {
+        "Integer": 10
+      },
+      {
+        "Integer": 20
+      },
+      {
+        "Integer": 0
+      },
+      {
+        "Integer": 0
+      },
+      {
+        "Integer": 0
+      },
+      {
+        "Integer": 0
+      },
+      {
+        "Integer": 10
+      },
+      {
+        "Integer": 90
+      },
+      {
+        "Integer": 190
+      },
+      {
+        "Integer": 180
+      }
+    ]
+  }
